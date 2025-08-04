@@ -1,10 +1,10 @@
 
-# ✂️ Nubank URL Shortener Challenge
+# ✂️ URL Shortener Challenge
 
 [![Kotlin](https://img.shields.io/badge/Kotlin-1.9.0-blue.svg)](https://kotlinlang.org/)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
-A simple Android application built with Kotlin and Jetpack Compose that allows users to shorten URLs and see a history of their recently shortened links using a REST API provided by Nubank.
+A simple Android application built with Kotlin and Jetpack Compose that allows users to shorten URLs and see a history of their recently shortened links using a REST API provided by .
 
 ---
 
@@ -45,8 +45,8 @@ A simple Android application built with Kotlin and Jetpack Compose that allows u
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/nubank-url-shortener.git
-   cd nubank-url-shortener
+   git clone https://github.com/yourusername/url-shortener.git
+   cd url-shortener
    ```
 
 2. Open the project in Android Studio and run the app on an emulator or device.
